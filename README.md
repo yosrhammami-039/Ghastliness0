@@ -16,5 +16,7 @@ This game contains sensitive content such as blood, kidnapping and other violent
 
 # Where to play #
 **Highly recommended to play on laptop**
+
+
 Link for the game on itch.io → " https://mina-and-kyuu.itch.io/ghastliness "
 
