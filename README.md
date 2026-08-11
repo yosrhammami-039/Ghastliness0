@@ -22,3 +22,6 @@ This game contains sensitive content such as blood, kidnapping and other violent
 
 Link for the game on itch.io → " https://mina-and-kyuu.itch.io/ghastliness "
 
+# 👥Contributor #
+[@kyuuuki] (https://github.com/kyuuuki) → Writing + Drawing
+
